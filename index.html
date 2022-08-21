@@ -12,6 +12,19 @@
 
   gtag('config', 'G-YKQRS05MF1');
 </script>
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "2d157f1f-1318-4501-a0b4-da6f4f8b8f7a",
+      safari_web_id: "web.onesignal.auto.14c8c5b3-a149-48e9-849f-677a5e5d7747",
+      notifyButton: {
+        enable: true,
+      },
+    });
+  });
+</script>
 <meta charset="utf-8">
 <meta name="description" content="堕天使(常磐比叡號)のHTMLを使ってGithubで初めて作ったサイトです">
 <link rel="canonical" href="https://da-tenshi.github.io/WebSite/" class="">
@@ -49,7 +62,6 @@
   <h1 id="info">Info</h1>
   <p>復旧しました。ついでに100人突破！！</p>
   <p>プッシュ通知実装‼このサイトが更新するとプッシュ更新が来るよ！(通知をオンにしないといけないよ)</p>
-  <p><div class="p7button" data-align="right" data-button-text="プッシュ通知オン！"></div></p>
   <br>
 <h2 id="self-introduction">自己紹介</h2>
 <p>堕天使です｡<a href="https://submarin.online"><a href="https://submarin.online"><img src="512.png" alt="Submarin" type="img/png"width="50" height="50"></a></a>や<a href="https://mocri.jp/invite/?from_user=DATENSHI&r=8585dde6b7"><img src="https://mocri.jp/favicon/apple-touch-icon.png" alt="mocri"width="50" height="50"></a>などにいます｡<p>
@@ -73,12 +85,5 @@
 <p><a href="https://www.free-counter.jp/"><img src="https://www.f-counter.net/j/49/1659679847/" alt="アクセスカウンター"></a></p>
 <p>©Copyright DATENSHI website japan 2022 ver.2102.2007</p>
 </div>
-  <script src="https://sdk.push7.jp/v2/p7sdk.js"></script>
-<script>
-p7.init("faf02d97bf58466aa2d5ad7c88b25958",{
-  mode:"native",
-  subscribe:"auto"
-});
-</script>
 </body>
 </html>
