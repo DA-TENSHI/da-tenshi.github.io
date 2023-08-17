@@ -2,35 +2,43 @@
 <!--HTMLを使って初めて作ったサイト｡色々な人に教えてもらいました｡
 -->
 <html>
-<html lang="ja">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
-<meta name="description" content="堕天使(常磐比叡號(音喜多友莉亜))のHTMLを使ってGithubで初めて作ったサイトです">
-<link rel="canonical" href="https://da-tenshi.github.io/WebSite/" class="">
-<link rel="shortcut icon" href="(Cropped) 071_2nd.jpg" type="image/jpg">
-<title>若鷺伊万里-HOME-</title>
-<style>
-.center { text-align: center; } 
-.loader {
-  position: fixed;
-  width: 100%;
-  height: 100vh;
-  background-color: #FFEEFF;
-  z-index: 555;
-  top: 0;
-  left: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.loader .txt {
-  font-size: 45px;
-  font-weight: bold;
-　color: #008000;
-}
-</style>
-<script>
+  <html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="堕天使(常磐比叡號(音喜多友莉亜))のHTMLを使ってGithubで初めて作ったサイトです">
+    <link rel="canonical" href="https://da-tenshi.github.io/WebSite/" class="">
+    <link rel="shortcut icon" href="(Cropped) 071_2nd.jpg" type="image/jpg">
+    <title>若鷺伊万里-HOME-</title>
+    <style>
+      .center { text-align: center; } 
+    </style>
+  </head>
+  <body>
+     <div class="center">
+     <div class="loader">
+     <p class="txt">Welcome</p>
+     <br><p class="txt"><img src="progress.gif" alt="progress" type="img/gif"></p>
+     <style>
+       .loader {
+         position: fixed;
+         width: 100%;
+         height: 100vh;
+         background-color: #FFEEFF;
+         z-index: 555;
+         top: 0;
+         left: 0;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+       }
+       .loader .txt {
+         font-size: 45px;
+         font-weight: bold;
+　       color: #008000;
+       }
+     </style>
+     <script>
 $(function () {
   function end_loader() {
     $('.loader').fadeOut(800);
@@ -38,16 +46,10 @@ $(function () {
   $(window).on('load', function () {
     setTimeout(function () {
       end_loader();
-    }, 3000)
+    }, 1500)
   })
 })
 </script>
-</head>
-<body>
-<div class="center">
-  <div class="loader">
-  <p class="txt">Welcome</p>
-  <br><p class="txt"><img src="progress.gif" alt="progress" type="img/gif"></p>
 </div>
 <div class="center">
 <p><a href="https://da-tenshi.github.io/WebSite/"><img class="fit-picture" src="無題の図形描画 (1).png" alt="ホームページ" type="img/png"width="150"></p></a>
