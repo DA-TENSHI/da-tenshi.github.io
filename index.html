@@ -34,6 +34,33 @@
         color: #fff;
         z-index: 2;
       }
+      body {
+        padding-top: 90px; /* ヘッダーの後ろに要素が隠れないようにするため */
+      }
+      header {
+        width: 100%; /* 幅いっぱいを指定 */
+        height: 50px; /* 高さを50pxに指定 */
+        background: #CCC; /* 背景色にグレーを指定 */
+        padding: 20px 50px; /* ヘッダーに上下左右それぞれ余白を指定 */
+        box-sizing: border-box; /* padding分を含んで幅を100%にするため */
+        position: fixed; /* ウィンドウを基準に画面に固定 */
+        top: 0; /* 上下の固定位置を上から0pxにする */
+        left: 0; /* 左右の固定位置を左から0pxにする */
+        display: flex; /* 中の要素を横並びにする */
+        align-items: center; /* 中の要素を上下中央に並べる */
+      }
+      header .gnav .menu {
+        display: flex; /* 中の要素を横並びにする */
+      }
+      header .gnav .menu li {
+        list-style: none; /* リストの[・]を消す */
+      }
+      header .gnav .menu li + li {
+        margin-left: 40px; /* メニューそれぞれに間隔をあけるため */
+      }
+      main {
+        height: 100vw; /* スクロールの演出を見れるようにmainに高さを指定 */
+      }
     </style>
   </head>
   <body>
@@ -50,7 +77,7 @@
             <li><a href="https://da-tenshi.github.io/GaibuRink/#bc">バナー広告のコード</a></li>
             <li><a href="#privacypolicy">プライバシーポリシー</a></li>
             <li><a href="#inquiry">お問い合わせ</a></li>
-      　　　<li><a href="https://github.com/DA-TENSHI/WebSite"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="github" type="img/png"</a></li>
+      　　　<li><a href="https://github.com/DA-TENSHI/WebSite"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="github" type="img/png" width="50</a></li>
         </ul>
       </nav>
     </header>
@@ -58,6 +85,7 @@
       <div class="center">
         <h1><a href="https://da-tenshi.github.io/WebSite/">若鷺伊万里(<img src="119046 (1).png" type="img/png"width="15" height="25"alt="初代">改二)</a></h1>
         <h2>更新日:2023/08/17</h2>
+        <h1 id="new">Whats New</h1>
         <p>The English version of the site is <a href="https://da-tenshi.github.io/WebSite_en/">here</a>.</p>
         <h1 id="info">info</h1>
         <p>7/7は七夕でしたね。自分は<b>Misskey.ioにレターパックで現金送る</b>って願いました。</p>
