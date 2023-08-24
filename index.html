@@ -21,18 +21,18 @@
       /* Header */
       header {
           background-color: #212121;
-          padding: 5px 0;
+          padding: 10px 0; /* 高さを増やす */
           position: fixed;
           top: 0;
           width: 100%;
-          display: flex; /* ロゴとメニューを横並びにするために追加 */
-          justify-content: space-between; /* ロゴとメニューの間隔を均等にするために追加 */
-          align-items: center; /* 垂直方向の中央寄せ */
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
           z-index: 100;
       }
   
       .logo {
-          margin-left: 10px; /* ロゴの左側の余白 */
+          margin-left: 10px;
       }
   
       .gnav {
@@ -44,7 +44,7 @@
           list-style-type: none;
           padding: 0;
           margin: 0;
-          display: flex; /* メニューアイテムを横並びにするために追加 */
+          display: flex;
       }
   
       .menu li {
@@ -84,6 +84,16 @@
   
       a:hover {
           color: #FFFFFF;
+      }
+  
+      /* Media Queries */
+      @media (max-width: 768px) {
+          header {
+              padding: 5px 0; /* 高さを縮小 */
+          }
+          .menu {
+              display: none; /* メニューを非表示に */
+          }
       }
   </style>
   </head>
