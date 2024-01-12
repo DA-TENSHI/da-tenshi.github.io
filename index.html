@@ -7,67 +7,8 @@
     <meta name="description" content="若鷺伊万里のおうちだよ">
     <link rel="canonical" href="https://da-tenshi.github.io/WebSite/" class="">
     <link rel="shortcut icon" href="image/(Cropped) 071_2nd.jpg" type="image/jpg">
+    <link rel="stylesheet" href="styles.css">
     <title>若鷺伊万里-おうち-</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        background-color: #121212;
-        color: #FFFFFF;
-        margin: 0;
-        padding: 0; 
-      }
-      .tab-wrap {
-        display: flex;
-        flex-wrap: wrap;
-      }
-      .tab-label {
-        color: White;
-        margin-right: 5px;
-        order: -1;
-      }
-      .tab-content {
-        width: 100%;
-        display: none;
-      }
-      .tab-switch:checked+.tab-label+.tab-content {
-        display: block;
-      }
-      .tab-switch {
-        display: none;
-      }
-      a {
-        color:  #F8A900;
-        text-decoration: none;
-        transition: color 0.3s ease;
-      }
-      a:hover {
-        color: #FFFFFF;
-      }
-      .center {
-        text-align: center;
-      }
-      .parent {
-        display: flex;
-        justify-content: space-around;
-      }
-      .info {
-        width:400px; height:800px;
-        margin:5px; padding:10px; border:1px solid black;
-        background-color:black;
-      }
-      .ichinee {
-        height: 3000px;
-      }
-      table,
-      td {
-        border: 1px solid #FFFFFF;
-      }
-      thead,
-      tfoot {
-        background-color: #FFFFFF;
-        color: #000000;
-      }
-    </style>
   </head>
   <body>
     <div class="ichinee">
@@ -97,7 +38,7 @@
           </div>
           <input id="TAB-02" type="radio" name="TAB" class="tab-switch" /><label class="tab-label" for="TAB-02">自己紹介</label>
           <div class="tab-content">
-            <table>
+            <table align="center">
               <thead>
                 <tr>
                   <th colspan="2">基本的な情報</th>
@@ -127,8 +68,10 @@
               </tbody>
             </table>
             <h2>連絡先</h2>
+            
             <div class="parent">
-              <p><a href="https://submarin.online/@samesameshark"><img src="https://raw.githubusercontent.com/misskey-dev/assets/main/icon.png" alt="misskey" width="300" /></a><a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBWMVSJtcdBfPXJKZWHpFHszTfdHCjtrwJVcnfxRXpPfmjdZxkwmBZHsgHppnnRHnlFcpm"><img src="image/gmail.png" alt="gmail" width="300"/></a></p>
+             <button onclick="window.location.href='https://x.com/WAKASAGISYSTEM'">Twitter</button>
+             <button onclick="window.location.href='https://submarin.online/@samesameshark'">Misskey</button>
             </div>
           </div>
         <input id="TAB-03" type="radio" name="TAB" class="tab-switch" /><label class="tab-label" for="TAB-03">ないよお</label>
