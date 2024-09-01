@@ -1,4 +1,4 @@
-# Welcome WAKASAGI website Repository!!!
+# Welcome SHINANOMAI website Repository!!!
 
 # What is this?
 サイト。不定期更新。
