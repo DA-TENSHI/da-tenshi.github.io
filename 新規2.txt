@@ -1,0 +1,15 @@
+{
+	"host": "https://misskey.shinaomai.xyz",
+	"i": "iWk4YLL5jggxfTurpK3L83x1x6eNoKpC",
+	"master": "@Administrator",
+	"notingEnabled": "true",
+	"keywordEnabled": "true",
+	"chartEnabled": "true",
+	"reversiEnabled": "true",
+	"serverMonitoring": "true",
+	"checkEmojisEnabled": "true",
+	"checkEmojisAtOnce": "true",
+	"mecab": "/usr/bin/mecab",
+	"mecabDic": "/usr/lib/x86_64-linux-gnu/mecab/dic/mecab-ipadic-neologd/",
+	"memoryDir": "data"
+}
