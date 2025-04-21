@@ -49,9 +49,38 @@
       "identifier": "R0Y87D3F"
     },
     {
-      "name": "Echo test(NOT USE)",
+      "name": "信濃眞伊直通",
+      "extension": "5050",
+      "type": "main",
+      "identifier": "JSP2YCD4",
+      "transferTo": [
+        "2000",
+        "2001",
+        "2003"
+      ]
+    },
+    {
+      "name": "music",
+      "extension": "9000",
+      "identifier": "8H6JGAJD",
+      "type": "music"
+    },
+    {
+      "name": "music2",
+      "extension": "9001",
+      "type": "music",
+      "identifier": "FAG7TULH"
+    },
+    {
+      "name": "music3",
+      "extension": "9002",
+      "type": "music",
+      "identifier": "N5MQ1P5F"
+    },
+    {
+      "name": "Echo test",
       "extension": "9999",
-      "type": "unused",
+      "type": "information",
       "identifier": "PDB92876"
     },
     {
