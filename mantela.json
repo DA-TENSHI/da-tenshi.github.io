@@ -42,6 +42,12 @@
       "type": "smartphone",
       "identifier": "EN2ZLJGV"
     },
+        {
+      "name": "Experia Z2",
+      "extension": "2004",
+      "type": "smartphone",
+      "identifier": "FAOSGEWD"
+    },
     {
       "name": "2025",
       "extension": "2025",
@@ -56,7 +62,8 @@
       "transferTo": [
         "UZZ38TFU",
         "QXIJCFZO",
-        "EN2ZLJGV"
+        "EN2ZLJGV",
+        "FAOSGEWD"
       ]
     },
     {
