@@ -125,6 +125,16 @@
       "extension": "80000002",
       "type": "information",
       "identifier": "UPVSOHIZ"
+    },
+        {
+      "name": "Experia直通",
+      "extension": "99000204",
+      "type": "main",
+      "identifier": "NMWYOH2L",
+      "transferTo": [
+        "EN2ZLJGV",
+        "FAOSGEWD"
+      ]
     }
   ],
   "providers": [
