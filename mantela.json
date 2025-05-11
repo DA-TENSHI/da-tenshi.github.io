@@ -139,6 +139,18 @@
   ],
   "providers": [
     {
+      "name": "AmagasakiSHINANO",
+      "prefix": "0",
+      "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
+      "mantela": "https://da-tenshi.github.io/mantela.json"
+    },
+    {
+      "name": "AmagasakiSHINANO",
+      "prefix": "06618192",
+      "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
+      "mantela": "https://da-tenshi.github.io/mantela.json"
+    },
+    {
       "name": "kimkim0106",
       "prefix": "106",
       "identifier": "8b741e2b-45f9-4187-9da1-05d866b79a09",
@@ -151,10 +163,22 @@
       "mantela": "https://108jiminy.jp/phone/jiminypublicmantela.json"
     },
     {
+      "name": "jiminy local",
+      "prefix": "119",
+      "identifier": "4a96b422-c07e-7b84-82aa-cd665e1e69a8",
+      "mantela": "https://108jiminy.jp/phone/jiminylocalmantela.json"
+    },
+    {
       "name": "hedgehog-tokyo",
       "prefix": "242",
       "identifier": "47abe85d-fe09-691d-f928-4f75b27a157f",
       "mantela": "https://rainyvillage.jp/mantela/mantela.json"
+    },
+    {
+      "name": "sgch",
+      "prefix": "248",
+      "identifier": "81c99427-4a30-4364-8b17-fed97f347439",
+      "mantela": "https://sgchsgch.net/.well-known/mantela.json"
     },
     {
       "name": "Kaiware",
@@ -203,6 +227,24 @@
       "prefix": "808",
       "identifier": "4a96b422-c07e-7b84-82aa-cd665e1e69a8",
       "mantela": "https://8yazaki.github.io/mantela/mantela.json"
+    },
+    {
+      "name": "hieri",
+      "prefix": "890",
+      "identifier": "91c5f34f-c178-4cfe-a488-be6ed00fac3b",
+      "mantela": "https://hieri1021.github.io/.well-known/mantela.json"
+    },
+    {
+      "name": "MCeTeLO",
+      "prefix": "917",
+      "identifier": "46fb2dc7-ee07-435d-9a27-0a7b4d43d3d7",
+      "mantela": "https://meishicafei.github.io/.well-known/mantela.json"
+    },
+    {
+      "name": "yank.nvim",
+      "prefix": "3304",
+      "identifier": "XXX:yank.nvim",
+      "mantela": ""
     }
   ]
 }
