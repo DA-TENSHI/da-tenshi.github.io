@@ -1,0 +1,64 @@
+{
+  "$schema": "https://tkytel.github.io/mantela/0.1/mantela.schema.json",
+  "version": "0.1.0",
+  "aboutMe": {
+    "name": "SHINANO Sub",
+    "preferredPrefix": [
+      "662",
+      "0662"
+    ],
+    "identifier": "d4ae222d-bff2-4511-a995-786825db4f37"
+  },
+  "extensions": [
+    {
+      "name": "2000",
+      "extension": "2000",
+      "identifier": "PAFY45W1",
+      "type": "other"
+    },
+    {
+      "name": "2001",
+      "extension": "2001",
+      "identifier": "EGWBHCEV",
+      "type": "other"
+    },
+    {
+      "name": "2003",
+      "extension": "2003",
+      "identifier": "97PXP4HD",
+      "type": "other"
+    },
+    {
+      "name": "RBTE",
+      "extension": "1000",
+      "identifier": "TOCJLD88",
+      "type": "information"
+    },
+    {
+      "name": "0000MILLI",
+      "extension": "1001",
+      "identifier": "WIFASOGD",
+      "type": "music"
+    },
+    {
+      "name": "Echo",
+      "extension": "1003",
+      "identifier": "FUXV3RLG",
+      "type": "music"
+    }
+  ],
+  "providers": [
+    {
+      "name": "AmagasakiSHINANO",
+      "prefix": "661",
+      "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
+      "mantela": "https://da-tenshi.github.io/mantela.json"
+    },
+    {
+      "name": "MikaNeTEL",
+      "prefix": "510",
+      "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
+      "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json"
+    }
+  ]
+}

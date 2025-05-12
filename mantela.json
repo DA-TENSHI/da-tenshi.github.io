@@ -19,7 +19,7 @@
       "identifier": "ZMBYZSRH"
     },
     {
-      "name": "疎通+α",
+      "name": "疎通+アルファ",
       "extension": "1234",
       "type": "application",
       "identifier": "M32KL4AY"
@@ -54,6 +54,12 @@
       "type": "reserved",
       "identifier": "R0Y87D3F"
     },
+        {
+      "name": "Brack8",
+      "extension": "3000",
+      "type": "phone",
+      "identifier": "MKN6EFRV"
+    },
     {
       "name": "信濃眞伊直通",
       "extension": "5050",
@@ -63,7 +69,8 @@
         "UZZ38TFU",
         "QXIJCFZO",
         "EN2ZLJGV",
-        "FAOSGEWD"
+        "FAOSGEWD",
+        "MKN6EFRV"
       ]
     },
     {
@@ -209,6 +216,12 @@
       "prefix": "510",
       "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
       "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json"
+    },
+        {
+      "name": "SHINANOSub",
+      "prefix": "662",
+      "identifier": "d4ae222d-bff2-4511-a995-786825db4f37",
+      "mantela": "https://da-tenshi.github.io/mantela_copy.json"
     },
     {
       "name": "SCRWNLNET",
