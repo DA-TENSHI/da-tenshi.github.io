@@ -61,6 +61,18 @@
       "identifier": "MKN6EFRV"
     },
     {
+      "name": "WinXP/Win7(Modem)",
+      "extension": "3001",
+      "type": "modem",
+      "identifier": "MD7UG8XE"
+    },
+    {
+      "name": "WinXP/Win7(FAX)",
+      "extension": "3001",
+      "type": "fax",
+      "identifier": "DPB9LPJU"
+    },
+    {
       "name": "信濃眞伊直通",
       "extension": "5050",
       "identifier": "JSP2YCD4",
@@ -258,6 +270,12 @@
       "prefix": "917",
       "identifier": "46fb2dc7-ee07-435d-9a27-0a7b4d43d3d7",
       "mantela": "https://meishicafei.github.io/.well-known/mantela.json"
+    },
+    {
+      "name": "YurikoNET",
+      "prefix": "975",
+      "identifier": "3cea6440-0ad2-405b-8d36-153023062969",
+      "mantela": "https://yuriko.co.nz/.well-known/mantela.json"
     },
     {
       "name": "yank.nvim",
