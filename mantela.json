@@ -8,6 +8,13 @@
       "661",
       "0661"
     ],
+    		"geolocationCoordinates": {
+			"latitude": 34.7460342,
+			"longitude": 135.4146083,
+			"altitude": 15.8,
+			"accuracy": 3.141592653589,
+			"altitudeAccuracy": 0.5
+		},
     "sipUsername": "SIP-TRUNK-910A281D",
     "sipPassword": "Vnp4cE1NRmNKSkE9"
   },
