@@ -12,7 +12,7 @@
 			"latitude": 34.7460342,
 			"longitude": 135.4146083,
 			"altitude": 15.8,
-			"accuracy": 3.141592653589,
+			"accuracy": 555,
 			"altitudeAccuracy": 0.5
 		},
     "sipUsername": "SIP-TRUNK-910A281D",
@@ -277,6 +277,12 @@
       "prefix": "917",
       "identifier": "46fb2dc7-ee07-435d-9a27-0a7b4d43d3d7",
       "mantela": "https://meishicafei.github.io/.well-known/mantela.json"
+    },
+    {
+      "name": "Kur0den-tel",
+      "prefix": "961",
+      "identifier": "376299fd-2ab2-4848-aa2c-18aea6f5abef",
+      "mantela": "https://www.kur0den.net/.well-known/mantela.json"
     },
     {
       "name": "YurikoNET",
