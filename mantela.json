@@ -4,6 +4,10 @@
   "aboutMe": {
     "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
     "name": "AmagasakiSHINANO",
+    "sipUri": [
+            "sip:100.106.50.42:5060;transport=udp",
+            "sip:100.106.50.42:5060;transport=tcp"
+        ]
     "preferredPrefix": [
       "661",
       "0661"
@@ -12,7 +16,7 @@
 			"latitude": 34.7460342,
 			"longitude": 135.4146083,
 			"altitude": 15.8,
-			"accuracy": 555,
+			"accuracy": 256,
 			"altitudeAccuracy": 0.5
 		},
     "sipUsername": "SIP-TRUNK-910A281D",
