@@ -7,7 +7,7 @@
     "sipUri": [
             "sip:100.106.50.42:5060;transport=udp",
             "sip:100.106.50.42:5060;transport=tcp"
-        ]
+        ],
     "preferredPrefix": [
       "661",
       "0661"

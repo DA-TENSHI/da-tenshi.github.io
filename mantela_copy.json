@@ -7,6 +7,10 @@
       "662",
       "0662"
     ],
+    "sipUri": [
+            "sip:100.78.22.12:5060;transport=udp",
+            "sip:100.78.22.12:5060;transport=tcp"
+        ],
     "identifier": "d4ae222d-bff2-4511-a995-786825db4f37"
   },
   "extensions": [
