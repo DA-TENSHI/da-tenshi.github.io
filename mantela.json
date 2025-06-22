@@ -218,6 +218,12 @@
       "mantela": "https://da-tenshi.github.io/mantela.json"
     },
     {
+      "name": "SiRin Seoul PBX",
+      "prefix": "101",
+      "identifier": "906286ae-3639-453f-b500-44a910445968",
+      "mantela": "https://raw.githubusercontent.com/sirin-interact/.well-known/refs/heads/main/mantela.json"
+    },
+    {
       "name": "kimkim0106",
       "prefix": "106",
       "identifier": "8b741e2b-45f9-4187-9da1-05d866b79a09",
@@ -234,6 +240,12 @@
       "prefix": "129",
       "identifier": "153048c5-db33-4e00-ad49-694762555d5c",
       "mantela": "https://108jiminy.jp/phone/jiminylocalmantela.json"
+    },
+    {
+      "name": "rei_k Public",
+      "prefix": "224",
+      "identifier": "66b340f4-de88-4ab4-9ac3-21a9a06bb012",
+      "mantela": "https://sousuke0422.github.io/.well-known/mantela.json"
     },
     {
       "name": "hedgehog-tokyo",
@@ -265,11 +277,24 @@
       "identifier": "859c4016-624e-495f-86b4-ca0beb2e7c62",
       "mantela": "https://yamaserif.com/phone/mantela.json"
     },
+    
+    {
+      "name": "tobi1",
+      "prefix": "425",
+      "identifier": "bbe4aba8-3782-4bef-9539-6b96a895beb9",
+      "mantela": "https://raw.githubusercontent.com/keitotobi1/.well-known/refs/heads/main/mantela.json"
+    },
     {
       "name": "yoshina",
       "prefix": "447",
       "identifier": "db30e15e-b101-4069-a406-9af3fdfe5c2e",
       "mantela": "https://yosh1na-hub.github.io/Mantela/Mantela.yoshina.json"
+    },
+    {
+      "name": "junks",
+      "prefix": "486",
+      "identifier": "008902ee-6102-48b9-8e70-49d27058ad7e",
+      "mantela": "https://junks.dev/.well-known/mantela.json"
     },
     {
       "name": "MikaNeTEL",
@@ -332,9 +357,21 @@
       "mantela": "https://yuriko.co.nz/.well-known/mantela.json"
     },
     {
+      "name": "noritel",
+      "prefix": "989",
+      "identifier": "8ad8afa6-11a8-4e61-b28d-343393f3d4d4",
+      "mantela": "https://ajinori256.com/.well-known/mantela.json"
+    },
+    {
       "name": "yank.nvim",
-      "prefix": "3304",
+      "prefix": "334",
       "identifier": "XXX:yank.nvim",
+      "mantela": ""
+    },
+    {
+      "name": "Xeronon",
+      "prefix": "891",
+      "identifier": "XXX:Xeronon",
       "mantela": ""
     }
   ]
