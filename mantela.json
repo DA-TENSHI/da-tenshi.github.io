@@ -33,7 +33,7 @@
       "identifier": "ZMBYZSRH"
     },
     {
-      "name": "疎通+アルファ",
+      "name": "Connection Test(Miko Ouka)",
       "extension": "1234",
       "type": "application",
       "identifier": "M32KL4AY",
@@ -70,6 +70,22 @@
       "identifier": "FAOSGEWD",
       "model": "SONY Xperia Z2 SO-03F",
       "image": "https://shinanomai.xyz/tkytel/img/SMARTPHONES.JPG"
+    },
+    {
+      "name": "Arrows NX",
+      "extension": "2005",
+      "type": "phone",
+      "identifier": "1RKCLI62",
+      "model": "Fujitsu Arrows NX F-05F",
+      "image": "https://shinanomai.xyz/tkytel/img/SMARTPHONES.JPG"
+    },
+    {
+      "name": "Win11 pettin",
+      "extension": "2006",
+      "type": "phone",
+      "identifier": "IS6D23JH",
+      "model": "ASUS BR1104FGA-NS0010XA",
+      "image": "https://shinanomai.xyz/tkytel/img/WIN11.JPG"
     },
     {
       "name": "2025",
@@ -122,7 +138,7 @@
       "identifier": "05VGX849"
     },
     {
-      "name": "信濃眞伊直通",
+      "name": "Numero di telefono diretto di Shinano Mai",
       "extension": "5050",
       "identifier": "JSP2YCD4",
       "type": "main",
@@ -131,7 +147,9 @@
         "QXIJCFZO",
         "EN2ZLJGV",
         "FAOSGEWD",
-        "MKN6EFRV"
+        "MKN6EFRV",
+        "1RKCLI62",
+        "IS6D23JH"
       ]
     },
     {
@@ -163,21 +181,21 @@
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG"
     },
     {
-      "name": "会議室1",
+      "name": "встреча #1",
       "extension": "79000001",
       "type": "conference",
       "identifier": "BZ0YAWC5",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG"
     },
     {
-      "name": "会議室2",
+      "name": "встреча #2",
       "extension": "79000002",
       "type": "conference",
       "identifier": "UMMRO7U8",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG"
     },
     {
-      "name": "会議室3",
+      "name": "встреча #3",
       "extension": "79000003",
       "type": "conference",
       "identifier": "2WU52VQG",
@@ -205,7 +223,7 @@
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG"
     },
         {
-      "name": "Experia直通",
+      "name": "Experia Linea diretta",
       "extension": "99000204",
       "type": "main",
       "identifier": "NMWYOH2L",
@@ -262,7 +280,7 @@
       "name": "hedgehog-tokyo",
       "prefix": "242",
       "identifier": "47abe85d-fe09-691d-f928-4f75b27a157f",
-      "mantela": "https://rainyvillage.jp/mantela/mantela.json"
+      "mantela": "https://toybox.rainyvillage.jp/mantela/mantela.json"
     },
     {
       "name": "sgch",
