@@ -11,7 +11,14 @@
             "sip:100.78.22.12:5060;transport=udp",
             "sip:100.78.22.12:5060;transport=tcp"
         ],
-    "identifier": "d4ae222d-bff2-4511-a995-786825db4f37"
+    "identifier": "d4ae222d-bff2-4511-a995-786825db4f37",
+    "geolocationCoordinates": {
+			"latitude": 34.7460342,
+			"longitude": 135.4146083,
+			"altitude": 15.8,
+			"accuracy": 256,
+			"altitudeAccuracy": 0.5
+		}
   },
   "extensions": [
     {
@@ -49,6 +56,12 @@
       "extension": "1003",
       "identifier": "FUXV3RLG",
       "type": "music"
+    },
+    {
+      "name": "Kanai",
+      "extension": "XXXX",
+      "type": "phone",
+      "identifier": "NB82I47Q"
     }
   ],
   "providers": [

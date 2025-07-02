@@ -109,7 +109,18 @@
       "model": "Baffalo IGM-PCI56K/LD",
       "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG"
     },
-
+    {
+      "name": "Rental Root (Miko Ouka)",
+      "extension": "4000",
+      "type": "information",
+      "identifier": "UI2L43C9"
+    },
+    {
+      "name": "isoshigi-Rental",
+      "extension": "4001",
+      "type": "phone",
+      "identifier": "05VGX849"
+    },
     {
       "name": "信濃眞伊直通",
       "extension": "5050",
@@ -266,6 +277,12 @@
       "mantela": "https://kaiware9011.github.io/mantela/KaiwareMantela.json"
     },
     {
+      "name": "zin3",
+      "prefix": "333",
+      "identifier": "498a3211-0f85-42a7-b2c0-44fb7095bd67",
+      "mantela": "https://zin3.cc/.well-known/mantela.json"
+    },
+    {
       "name": "yude",
       "prefix": "390",
       "identifier": "3be47f94-3185-4198-ac3d-ca5ccb573cc2",
@@ -307,6 +324,12 @@
       "prefix": "662",
       "identifier": "d4ae222d-bff2-4511-a995-786825db4f37",
       "mantela": "https://da-tenshi.github.io/mantela_copy.json"
+    },
+    {
+      "name": "Goryokaku",
+      "prefix": "767",
+      "identifier": "41aca3d1-6882-4e4d-9651-5e52464902e7",
+      "mantela": "https://halka.jp/.well-known/mantela.json"
     },
     {
       "name": "SCRWNLNET",
