@@ -88,6 +88,14 @@
       "image": "https://shinanomai.xyz/tkytel/img/WIN11.JPG"
     },
     {
+      "name": "Quest 3S",
+      "extension": "2007",
+      "type": "cellphone",
+      "identifier": "XD80ISCA",
+      "model": "Meta Quest 3S 128GB",
+      "image": "https://shinanomai.xyz/tkytel/img/Q3S.JPG"
+    },
+    {
       "name": "2025",
       "extension": "2025",
       "type": "reserved",
