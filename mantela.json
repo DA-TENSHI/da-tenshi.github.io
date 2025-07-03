@@ -96,6 +96,12 @@
       "image": "https://shinanomai.xyz/tkytel/img/Q3S.JPG"
     },
     {
+      "name": "MEDIAS N-07D",
+      "extension": "2008",
+      "type": "phone",
+      "identifier": "GRX3AKDT"
+    },
+    {
       "name": "2025",
       "extension": "2025",
       "type": "reserved",
@@ -158,7 +164,8 @@
         "MKN6EFRV",
         "1RKCLI62",
         "IS6D23JH",
-        "XD80ISCA"
+        "XD80ISCA",
+        "GRX3AKDT"
       ]
     },
     {
