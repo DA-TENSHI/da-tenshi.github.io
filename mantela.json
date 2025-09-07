@@ -27,6 +27,13 @@
   },
   "extensions": [
     {
+      "name": "時報(破壊中)",
+      "extension": "117",
+      "type": "information",
+      "identifier": "KU1I23ZT",
+      "model": "Asterisk PHP-AGI Script@Miko PBX"
+    },
+    {
       "name": "RESERVE(NOT USE)",
       "extension": "1000",
       "type": "reserved",
@@ -38,6 +45,13 @@
       "type": "application",
       "identifier": "M32KL4AY",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG"
+    },
+    {
+      "name": "モーニングコール(破壊中)",
+      "extension": "1500",
+      "type": "information",
+      "identifier": "YCN9CAIE",
+      "model": "Asterisk PHP-AGI Script@Miko PBX"
     },
     {
       "name": "Win10",
@@ -273,7 +287,7 @@
     },
     {
       "name": "AmagasakiSHINANO",
-      "prefix": "06618192",
+      "prefix": "0",
       "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
       "mantela": "https://da-tenshi.github.io/mantela.json"
     },
@@ -368,11 +382,23 @@
       "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
       "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json"
     },
-        {
+    {
+      "name": "MikaNeTEL",
+      "prefix": "510",
+      "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
+      "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json"
+    },
+    {
       "name": "SHINANOSub",
       "prefix": "662",
       "identifier": "d4ae222d-bff2-4511-a995-786825db4f37",
       "mantela": "https://da-tenshi.github.io/mantela_copy.json"
+    },
+    {
+      "name": "SHINANO FreePBX",
+      "prefix": "663",
+      "identifier": "a3e985a6-e2b3-4e33-b711-5580c3a1bf9a",
+      "mantela": "https://da-tenshi.github.io/mantela_copy_copy.json"
     },
     {
       "name": "Goryokaku",
@@ -445,6 +471,12 @@
       "prefix": "5551",
       "identifier": "cea45d03-c9d9-4df0-89ad-6117ceed051d",
       "mantela": "https://unstable.kusaremkn.com/.well-known/kinkanetel-mantela.json"
+    },
+    {
+      "name": "ShowTEL",
+      "prefix": "5552",
+      "identifier": "XXX:ShowTEL",
+      "mantela": ""
     },
     {
       "name": "yank.nvim",

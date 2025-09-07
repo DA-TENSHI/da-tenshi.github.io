@@ -1,0 +1,29 @@
+{
+  "$schema": "https://tkytel.github.io/mantela/0.1/mantela.schema.json",
+  "version": "0.1.0",
+  "aboutMe": {
+    "name": "SHINANOTEL FreePBX",
+    "preferredPrefix": [
+      "663",
+      "0663"
+    ],
+    "sipUri": [
+            "sip:100.78.22.12:5060;transport=udp",
+            "sip:100.78.22.12:5060;transport=tcp"
+        ],
+    "identifier": "a3e985a6-e2b3-4e33-b711-5580c3a1bf9a",
+    "geolocationCoordinates": {
+			"latitude": 34.7460342,
+			"longitude": 135.4146083,
+			"altitude": 15.8,
+			"accuracy": 256,
+			"altitudeAccuracy": 0.5
+		},
+    "unavailable": true
+  },
+  "extensions": [
+    
+  ],
+  "providers": [
+  ]
+}
