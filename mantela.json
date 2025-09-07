@@ -31,7 +31,8 @@
       "extension": "117",
       "type": "information",
       "identifier": "KU1I23ZT",
-      "model": "Asterisk PHP-AGI Script@Miko PBX"
+      "model": "Asterisk PHP-AGI Script@Miko PBX",
+      "unavailable": true
     },
     {
       "name": "RESERVE(NOT USE)",
@@ -51,7 +52,8 @@
       "extension": "1500",
       "type": "information",
       "identifier": "YCN9CAIE",
-      "model": "Asterisk PHP-AGI Script@Miko PBX"
+      "model": "Asterisk PHP-AGI Script@Miko PBX",
+      "unavailable": true
     },
     {
       "name": "Win10",
