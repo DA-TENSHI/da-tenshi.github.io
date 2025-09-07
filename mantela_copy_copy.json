@@ -7,10 +7,6 @@
       "663",
       "0663"
     ],
-    "sipUri": [
-            "sip:100.78.22.12:5060;transport=udp",
-            "sip:100.78.22.12:5060;transport=tcp"
-        ],
     "identifier": "a3e985a6-e2b3-4e33-b711-5580c3a1bf9a",
     "geolocationCoordinates": {
 			"latitude": 34.7460342,
@@ -22,7 +18,12 @@
     "unavailable": true
   },
   "extensions": [
-    
+    {
+      "name": "TEST",
+      "extension": "1000",
+      "identifier": "5THX6H7P",
+      "type": "music"
+    }
   ],
   "providers": [
   ]
