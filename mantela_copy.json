@@ -25,36 +25,42 @@
       "name": "2000",
       "extension": "2000",
       "identifier": "PAFY45W1",
+      "unavailable": true,
       "type": "reserved"
     },
     {
       "name": "2001",
       "extension": "2001",
       "identifier": "EGWBHCEV",
+      "unavailable": true,
       "type": "reserved"
     },
     {
       "name": "2003",
       "extension": "2003",
       "identifier": "97PXP4HD",
+      "unavailable": true,
       "type": "reserved"
     },
     {
       "name": "RBTE",
       "extension": "1000",
       "identifier": "TOCJLD88",
-      "type": "information"
+      "type": "information",
+      "unavailable": false
     },
     {
       "name": "0000MILLI",
       "extension": "1001",
       "identifier": "WIFASOGD",
+      "unavailable": false,
       "type": "music"
     },
     {
       "name": "Echo",
       "extension": "1003",
       "identifier": "FUXV3RLG",
+      "unavailable": false,
       "type": "music"
     },
     {

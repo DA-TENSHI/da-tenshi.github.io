@@ -116,6 +116,7 @@
       "extension": "2008",
       "type": "smartphone",
       "model": "NTTドコモ MEDIAS X N-07D@Android 4.1.2",
+      "image": "https://shinanomai.xyz/tkytel/img/N07D.JPG",
       "identifier": "GRX3AKDT"
     },
     {
@@ -123,6 +124,7 @@
       "extension": "2009",
       "type": "cellphone",
       "model": "Homemade PC@Windows 10 Pro x64 / Windows XP Professional x86",
+      "image": "https://shinanomai.xyz/tkytel/img/4790K.JPG",
       "identifier": "WWMW4RSD"
     },
     {
@@ -130,6 +132,7 @@
       "extension": "2010",
       "type": "cellphone",
       "model": "富士通 FMV-BIBLO NF/A50 FMVNFA50@Windows 7 Ulutimate x64",
+      "image": "https://shinanomai.xyz/tkytel/img/BIBLO.JPG",
       "identifier": "G6KNSF8G"
     },
     {
@@ -165,10 +168,20 @@
     {
       "name": "moderm build-in moduler port #01",
       "extension": "3001",
-      "type": "unused",
+      "type": "modem",
       "identifier": "BAUSGBWQ",
       "model": "Baffalo IGM-PCI56K/LD",
-      "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG"
+      "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG",
+      "unavailable": true
+    },
+    {
+      "name": "VE-TA10",
+      "extension": "3002",
+      "type": "modem",
+      "identifier": "1URTIXJV",
+      "model": "icom VE-TA10",
+      "image": "https://shinanomai.xyz/tkytel/img/VETA10.JPG",
+      "unavailable": true
     },
     {
       "name": "Rental Root (Miko Ouka)",
