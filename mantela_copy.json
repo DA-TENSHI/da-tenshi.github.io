@@ -13,11 +13,11 @@
         ],
     "identifier": "d4ae222d-bff2-4511-a995-786825db4f37",
     "geolocationCoordinates": {
-			"latitude": 34.7460342,
-			"longitude": 135.4146083,
-			"altitude": 15.8,
-			"accuracy": 256,
-			"altitudeAccuracy": 0.5
+			"latitude": 34.700338,
+			"longitude": 135.399604,
+			"altitude": 2,
+			"accuracy": 0,
+			"altitudeAccuracy": 0
 		}
   },
   "extensions": [
