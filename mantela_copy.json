@@ -68,7 +68,14 @@
       "extension": "XXXX",
       "type": "unknown",
       "identifier": "NB82I47Q",
-      "model": "MOTHER"
+      "model": "MOTHER",
+      "geolocationCoordinates": {
+			"latitude": 34.7460342,
+			"longitude": 135.4146083,
+			"altitude": 15.8,
+			"accuracy": 256,
+			"altitudeAccuracy": 0.5
+      }
     }
   ],
   "providers": [
