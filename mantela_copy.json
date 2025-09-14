@@ -1,95 +1,102 @@
 {
   "$schema": "https://tkytel.github.io/mantela/0.1/mantela.schema.json",
-  "version": "0.1.0",
   "aboutMe": {
+    "geolocationCoordinates": {
+      "accuracy": 0,
+      "altitude": 2,
+      "altitudeAccuracy": 0,
+      "latitude": 34.700338,
+      "longitude": 135.399604
+    },
+    "identifier": "d4ae222d-bff2-4511-a995-786825db4f37",
     "name": "SHINANOTEL Sub",
     "preferredPrefix": [
       "662",
       "0662"
     ],
     "sipUri": [
-            "sip:100.78.22.12:5060;transport=udp",
-            "sip:100.78.22.12:5060;transport=tcp"
-        ],
-    "identifier": "d4ae222d-bff2-4511-a995-786825db4f37",
-    "geolocationCoordinates": {
-			"latitude": 34.700338,
-			"longitude": 135.399604,
-			"altitude": 2,
-			"accuracy": 0,
-			"altitudeAccuracy": 0
-		}
+      "sip:100.78.22.12:5060;transport=udp",
+      "sip:100.78.22.12:5060;transport=tcp"
+    ]
   },
   "extensions": [
     {
-      "name": "2000",
       "extension": "2000",
       "identifier": "PAFY45W1",
-      "unavailable": true,
-      "type": "reserved"
+      "name": "2000",
+      "type": "reserved",
+      "unavailable": true
     },
     {
-      "name": "2001",
       "extension": "2001",
       "identifier": "EGWBHCEV",
+      "name": "2001",
+      "type": "reserved",
       "unavailable": true,
-      "type": "reserved"
+      "geolocationCoordinates": {
+        "accuracy": 0,
+        "altitude": 0,
+        "altitudeAccuracy": 0,
+        "latitude": 0,
+        "longitude": 0
+      }
     },
     {
-      "name": "2003",
       "extension": "2003",
       "identifier": "97PXP4HD",
-      "unavailable": true,
-      "type": "reserved"
+      "name": "2003",
+      "type": "reserved",
+      "unavailable": true
     },
     {
-      "name": "RBTE",
       "extension": "1000",
       "identifier": "TOCJLD88",
+      "name": "RBTE",
       "type": "information",
       "unavailable": false
     },
     {
-      "name": "0000MILLI",
       "extension": "1001",
       "identifier": "WIFASOGD",
-      "unavailable": false,
-      "type": "music"
+      "name": "0000MILLI",
+      "type": "music",
+      "unavailable": false
     },
     {
-      "name": "Echo",
       "extension": "1003",
       "identifier": "FUXV3RLG",
-      "unavailable": false,
-      "type": "music"
+      "name": "Echo",
+      "type": "music",
+      "unavailable": false
     },
     {
-      "name": "母",
       "extension": "XXXX",
-      "type": "unknown",
+      "geolocationCoordinates": {
+        "accuracy": 256,
+        "altitude": 15.8,
+        "altitudeAccuracy": 0.5,
+        "latitude": 34.7460342,
+        "longitude": 135.4146083
+      },
       "identifier": "NB82I47Q",
       "model": "MOTHER",
-      "geolocationCoordinates": {
-			"latitude": 34.7460342,
-			"longitude": 135.4146083,
-			"altitude": 15.8,
-			"accuracy": 256,
-			"altitudeAccuracy": 0.5
-      }
+      "name": "母",
+      "type": "unknown"
     }
   ],
   "providers": [
     {
-      "name": "AmagasakiSHINANO",
-      "prefix": "661",
       "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
-      "mantela": "https://da-tenshi.github.io/mantela.json"
+      "mantela": "https://da-tenshi.github.io/mantela.json",
+      "name": "SHINANOTEL",
+      "prefix": "661"
     },
     {
-      "name": "MikaNeTEL",
-      "prefix": "510",
       "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
-      "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json"
+      "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json",
+      "name": "MikaNeTEL",
+      "prefix": "510"
     }
-  ]
+  ],
+  "version": "0.1.0"
 }
