@@ -14,7 +14,11 @@
       "663",
       "0663"
     ],
-    "unavailable": true
+    "unavailable": true,
+    "sipUri": [
+      "sip:100.88.192.98:5060;transport=udp"
+    ],
+    "sipServer": "100.88.192.98"
   },
   "extensions": [
     {
@@ -22,8 +26,24 @@
       "identifier": "5THX6H7P",
       "name": "TEST",
       "type": "music"
+    },
+    {
+      "extension": "2000",
+      "identifier": "",
+      "image": "",
+      "model": "Japan,Asia,Earth",
+      "name": "Osaka",
+      "type": "other",
+      "unavailable": true
     }
   ],
-  "providers": [],
+  "providers": [
+    {
+      "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
+      "mantela": "https://da-tenshi.github.io/mantela.json",
+      "name": "SHINANOTEL",
+      "prefix": "661"
+    }
+  ],
   "version": "0.1.0"
 }

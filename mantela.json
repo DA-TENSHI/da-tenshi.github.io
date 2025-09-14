@@ -496,6 +496,12 @@
       "mantela": "",
       "name": "yank.nvim",
       "prefix": "334"
+    },
+    {
+      "identifier": "XXX:watanabe",
+      "mantela": "",
+      "name": "watanabe",
+      "prefix": "910"
     }
   ],
   "version": "0.1.0"
