@@ -21,53 +21,46 @@
   },
   "extensions": [
     {
-      "extension": "2000",
-      "identifier": "PAFY45W1",
-      "name": "2000",
-      "type": "reserved",
-      "unavailable": true
-    },
-    {
-      "extension": "2001",
-      "identifier": "EGWBHCEV",
-      "name": "2001",
-      "type": "reserved",
-      "unavailable": true,
-      "geolocationCoordinates": {
-        "accuracy": 0,
-        "altitude": 0,
-        "altitudeAccuracy": 0,
-        "latitude": 0,
-        "longitude": 0
-      }
-    },
-    {
-      "extension": "2003",
-      "identifier": "97PXP4HD",
-      "name": "2003",
-      "type": "reserved",
-      "unavailable": true
-    },
-    {
       "extension": "1000",
-      "identifier": "TOCJLD88",
+      "identifier": "SHINANO21000",
       "name": "RBTE",
       "type": "information",
       "unavailable": false
     },
     {
       "extension": "1001",
-      "identifier": "WIFASOGD",
+      "identifier": "SHINANO21001",
       "name": "0000MILLI",
       "type": "music",
       "unavailable": false
     },
     {
       "extension": "1003",
-      "identifier": "FUXV3RLG",
+      "identifier": "SHINANO21003",
       "name": "Echo",
       "type": "music",
       "unavailable": false
+    },
+    {
+      "extension": "2000",
+      "identifier": "SHINANO22000",
+      "name": "2000",
+      "type": "reserved",
+      "unavailable": true
+    },
+    {
+      "extension": "2001",
+      "identifier": "SHINANO22001",
+      "name": "2001",
+      "type": "reserved",
+      "unavailable": true
+    },
+    {
+      "extension": "2003",
+      "identifier": "SHINANO22003",
+      "name": "2003",
+      "type": "reserved",
+      "unavailable": true
     },
     {
       "extension": "XXXX",
@@ -78,7 +71,7 @@
         "latitude": 34.7460342,
         "longitude": 135.4146083
       },
-      "identifier": "NB82I47Q",
+      "identifier": "SHINANO2MOTHER",
       "model": "MOTHER",
       "name": "母",
       "type": "unknown"

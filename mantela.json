@@ -27,9 +27,9 @@
   "extensions": [
     {
       "extension": "117",
-      "identifier": "KU1I23ZT",
+      "identifier": "SHINANO1117",
       "model": "Asterisk PHP-AGI Script@Miko PBX",
-      "name": "時報(破壊中)",
+      "name": "Time signal",
       "type": "information",
       "unavailable": true
     },
@@ -42,44 +42,55 @@
         "latitude": 0,
         "longitude": 0
       },
-      "identifier": "ZMBYZSRH",
-      "name": "RESERVE(NOT USE)",
-      "type": "reserved"
+      "identifier": "SHINANO11000",
+      "model": "1xxx : System use",
+      "name": "1xxx Root",
+      "type": "reserved",
+      "unavailable": true
     },
     {
       "extension": "1234",
-      "identifier": "M32KL4AY",
+      "identifier": "SHINANO11234",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
+      "model": "IVR@Miko PBX",
       "name": "Connection Test(Miko Ouka)",
       "type": "application"
     },
     {
       "extension": "1500",
-      "identifier": "YCN9CAIE",
+      "identifier": "SHINANO11500",
       "model": "Asterisk PHP-AGI Script@Miko PBX",
-      "name": "モーニングコール(破壊中)",
+      "name": "Morning Call",
       "type": "information",
       "unavailable": true
     },
     {
       "extension": "2000",
-      "identifier": "UZZ38TFU",
-      "image": "https://shinanomai.xyz/tkytel/img/MAINPC.JPG",
-      "model": "Homemade PC@Windows10 Pro x64",
-      "name": "Win10",
-      "type": "phone"
+      "identifier": "SINANO12000",
+      "model": "Nothing Phone (2a)@Android 15",
+      "name": "Reserved",
+      "type": "reserved",
+      "unavailable": true
     },
     {
       "extension": "2001",
-      "identifier": "QXIJCFZO",
+      "identifier": "SHINANO12001",
       "image": "https://shinanomai.xyz/tkytel/img/SMARTPHONES.JPG",
       "model": "Motolola moto G24@Android 14",
       "name": "Moto G24",
       "type": "smartphone"
     },
     {
+      "extension": "2002",
+      "identifier": "SHINANO12002",
+      "model": "handmade PC@Windows10 Pro x64",
+      "name": "Win10",
+      "type": "phone",
+      "image": "https://shinanomai.xyz/tkytel/img/MAINPC.JPG"
+    },
+    {
       "extension": "2003",
-      "identifier": "EN2ZLJGV",
+      "identifier": "SHINANO12003",
       "image": "https://shinanomai.xyz/tkytel/img/SMARTPHONES.JPG",
       "model": "SONY Xperia Z5 SO-01H@Android 7.0",
       "name": "Experia Z5",
@@ -87,7 +98,7 @@
     },
     {
       "extension": "2004",
-      "identifier": "FAOSGEWD",
+      "identifier": "SHINANO12004",
       "image": "https://shinanomai.xyz/tkytel/img/SMARTPHONES.JPG",
       "model": "SONY Xperia Z2 SO-03F@Android 6.0.1",
       "name": "Experia Z2",
@@ -95,7 +106,7 @@
     },
     {
       "extension": "2005",
-      "identifier": "1RKCLI62",
+      "identifier": "SHINANO12005",
       "image": "https://shinanomai.xyz/tkytel/img/SMARTPHONES.JPG",
       "model": "NTTドコモ ARROWS NX F-05F@Android 5.0.2",
       "name": "Arrows NX",
@@ -103,7 +114,7 @@
     },
     {
       "extension": "2006",
-      "identifier": "IS6D23JH",
+      "identifier": "SHINANO12006",
       "image": "https://shinanomai.xyz/tkytel/img/WIN11.JPG",
       "model": "ASUS BR1104FGA-NS0010XA@Windows 11 Education x64",
       "name": "Win11 pettin",
@@ -111,7 +122,7 @@
     },
     {
       "extension": "2007",
-      "identifier": "XD80ISCA",
+      "identifier": "SHINANO12007",
       "image": "https://shinanomai.xyz/tkytel/img/Q3S.JPG",
       "model": "Meta Quest 3S 128GB@Meta Horizon OS(Android 14)",
       "name": "Quest 3S",
@@ -119,14 +130,14 @@
     },
     {
       "extension": "2008",
-      "identifier": "GRX3AKDT",
+      "identifier": "SHINANO12008",
       "image": "https://shinanomai.xyz/tkytel/img/N07D.JPG",
       "model": "NTTドコモ MEDIAS X N-07D@Android 4.1.2",
       "name": "MEDIAS N-07D",
       "type": "smartphone"
     },
     {
-      "extension": "2009",
+      "extension": "SHINANO12009",
       "identifier": "WWMW4RSD",
       "image": "https://shinanomai.xyz/tkytel/img/4790K.JPG",
       "model": "Homemade PC@Windows 10 Pro x64 / Windows XP Professional x86",
@@ -134,7 +145,7 @@
       "type": "cellphone"
     },
     {
-      "extension": "2010",
+      "extension": "SHINANO12010",
       "identifier": "G6KNSF8G",
       "image": "https://shinanomai.xyz/tkytel/img/BIBLO.JPG",
       "model": "富士通 FMV-BIBLO NF/A50 FMVNFA50@Windows 7 Ulutimate x64",
@@ -143,7 +154,7 @@
     },
     {
       "extension": "2025",
-      "identifier": "R0Y87D3F",
+      "identifier": "SHINANO12025",
       "name": "2025",
       "type": "reserved"
     },
@@ -157,7 +168,7 @@
     },
     {
       "extension": "3001",
-      "identifier": "MD7UG8XE",
+      "identifier": "SHINANO13001A",
       "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG",
       "model": "Homemade PC@Windwos XP Professional x86 / Baffalo IGM-PCI56K/LD",
       "name": "WinXP/Win7(Modem)",
@@ -165,7 +176,7 @@
     },
     {
       "extension": "3001",
-      "identifier": "DPB9LPJU",
+      "identifier": "SHINANO13001B",
       "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG",
       "model": "Homemade PC@Windows XP Professional x86 / Baffalo IGM-PCI56K/LD",
       "name": "WinXP/Win7(FAX)",
@@ -173,7 +184,7 @@
     },
     {
       "extension": "3001",
-      "identifier": "BAUSGBWQ",
+      "identifier": "SHINANO13001C",
       "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG",
       "model": "Baffalo IGM-PCI56K/LD",
       "name": "moderm build-in moduler port #01",
@@ -182,7 +193,7 @@
     },
     {
       "extension": "3002",
-      "identifier": "1URTIXJV",
+      "identifier": "SHINANO13002",
       "image": "https://shinanomai.xyz/tkytel/img/VETA10.JPG",
       "model": "icom VE-TA10",
       "name": "VE-TA10",
@@ -190,115 +201,133 @@
     },
     {
       "extension": "4000",
-      "identifier": "UI2L43C9",
+      "identifier": "SHINANO14000",
       "name": "Rental Root (Miko Ouka)",
       "type": "information"
     },
     {
       "extension": "4001",
-      "identifier": "05VGX849",
+      "identifier": "SHINANO14001",
       "name": "isoshigi-Rental",
-      "type": "unknown"
+      "type": "unknown",
+      "model": "Friend"
     },
     {
       "extension": "4002",
-      "identifier": "471AVHIA",
+      "identifier": "SHINANO14002",
       "name": "Karaten",
-      "type": "unknown"
-    }
+      "type": "unknown",
+      "model": "Friend"
+    },
     {
       "extension": "5050",
-      "identifier": "JSP2YCD4",
+      "identifier": "SHINANO15050",
       "name": "Numero di telefono diretto di Shinano Mai",
       "transferTo": [
-        "UZZ38TFU",
-        "QXIJCFZO",
-        "EN2ZLJGV",
-        "FAOSGEWD",
-        "MKN6EFRV",
-        "1RKCLI62",
-        "IS6D23JH",
-        "XD80ISCA",
-        "GRX3AKDT"
+        "SHINANO12000",
+        "SHINANO12001",
+        "SHINANO12002",
+        "SHINANO12003",
+        "SHINANO12004",
+        "SHINANO12005",
+        "SHINANO12006",
+        "SHINANO12007",
+        "SHINANO12008",
+        "SHINANO12009",
+        "SHINANO12010",
+        "MKN6EFRV"
+      ],
+      "type": "main",
+      "model": "Queue --> some tarminal"
+    },
+    {
+      "extension": "5900",
+      "identifier": "SHINANO15900",
+      "model": "Queue --> Xperia",
+      "name": "Experia Linea diretta",
+      "transferTo": [
+        "SHINANO12003",
+        "SHINANO12004"
       ],
       "type": "main"
     },
     {
-      "extension": "5900",
-      "identifier": "NMWYOH2L",
-      "name": "Experia Linea diretta",
+      "extension": "5901",
+      "identifier": "SHINANO15901",
+      "model": "Queue -->RT58#2,VE-TA10",
+      "name": "FAX Linea diretta",
       "transferTo": [
-        "EN2ZLJGV",
-        "FAOSGEWD"
+        "SHINANO13001",
+        "SHINANO13002"
       ],
       "type": "main"
     },
     {
       "extension": "7901",
-      "identifier": "BZ0YAWC5",
+      "identifier": "SHINANO17901",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
       "name": "встреча #1",
       "type": "conference"
     },
     {
       "extension": "7902",
-      "identifier": "UMMRO7U8",
+      "identifier": "SHINANO17902",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
       "name": "встреча #2",
       "type": "conference"
     },
     {
       "extension": "7903",
-      "identifier": "2WU52VQG",
+      "identifier": "SHINANO17903",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
       "name": "встреча #3",
       "type": "conference"
     },
     {
       "extension": "8000",
-      "identifier": "MSBHVG58",
+      "identifier": "SHINANO18000",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
       "name": "Echo test",
       "type": "information"
     },
     {
       "extension": "8001",
-      "identifier": "K0LT3W1L",
+      "identifier": "SHINANO18001",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
       "name": "1000Hz",
       "type": "music"
     },
     {
       "extension": "8002",
-      "identifier": "UPVSOHIZ",
+      "identifier": "SHINANO18002",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
       "name": "Reads back the extension",
       "type": "information"
     },
     {
       "extension": "9000",
-      "identifier": "8H6JGAJD",
+      "identifier": "SHINANO19000",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
       "name": "music",
       "type": "music"
     },
     {
       "extension": "9001",
-      "identifier": "FAG7TULH",
+      "identifier": "SHINANO19001",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
       "name": "music2",
       "type": "music"
     },
     {
       "extension": "9002",
-      "identifier": "N5MQ1P5F",
+      "identifier": "SHINANO19002",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
       "name": "music3",
       "type": "music"
     },
     {
       "extension": "9999",
-      "identifier": "PDB92876",
+      "identifier": "SHINANO19999",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
       "name": "Echo test",
       "type": "information"

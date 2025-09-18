@@ -14,23 +14,22 @@
       "663",
       "0663"
     ],
-    "unavailable": true,
+    "sipServer": "100.88.192.98",
     "sipUri": [
       "sip:100.88.192.98:5060;transport=udp"
     ],
-    "sipServer": "100.88.192.98"
+    "unavailable": true
   },
   "extensions": [
     {
       "extension": "1000",
-      "identifier": "5THX6H7P",
+      "identifier": "SHINANO31000",
       "name": "TEST",
       "type": "music"
     },
     {
       "extension": "2000",
-      "identifier": "",
-      "image": "",
+      "identifier": "SHINANO32000",
       "model": "Japan,Asia,Earth",
       "name": "Osaka",
       "type": "other",
