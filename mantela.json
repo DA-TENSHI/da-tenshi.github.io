@@ -257,7 +257,7 @@
       "model": "Queue -->RT58#2,VE-TA10",
       "name": "FAX Linea diretta",
       "transferTo": [
-        "SHINANO13001",
+        "SHINANO13001B",
         "SHINANO13002"
       ],
       "type": "main"
