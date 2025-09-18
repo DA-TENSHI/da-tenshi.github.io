@@ -66,7 +66,7 @@
     },
     {
       "extension": "2000",
-      "identifier": "SINANO12000",
+      "identifier": "SHINANO12000",
       "model": "Nothing Phone (2a)@Android 15",
       "name": "Reserved",
       "type": "reserved",
@@ -137,16 +137,16 @@
       "type": "smartphone"
     },
     {
-      "extension": "SHINANO12009",
-      "identifier": "WWMW4RSD",
+      "extension": "2009",
+      "identifier": "SHINANO12009",
       "image": "https://shinanomai.xyz/tkytel/img/4790K.JPG",
       "model": "Homemade PC@Windows 10 Pro x64 / Windows XP Professional x86",
       "name": "Win10 4790K",
       "type": "cellphone"
     },
     {
-      "extension": "SHINANO12010",
-      "identifier": "G6KNSF8G",
+      "extension": "2010",
+      "identifier": "SHINANO12010",
       "image": "https://shinanomai.xyz/tkytel/img/BIBLO.JPG",
       "model": "富士通 FMV-BIBLO NF/A50 FMVNFA50@Windows 7 Ulutimate x64",
       "name": "Fujitsu FMV-BIBLO NF/A50",
