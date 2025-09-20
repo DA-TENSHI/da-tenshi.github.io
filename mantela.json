@@ -227,55 +227,6 @@
       "model": "Friend"
     },
     {
-      "extension": "4004",
-      "identifier": "SHINANO14004",
-      "name": "Nekokan",
-      "type": "unknown",
-      "model": "Friend"
-    },
-    {
-      "extension": "4005",
-      "identifier": "SHINANO14005",
-      "name": "Purin",
-      "type": "unknown",
-      "model": "Friend"
-    },
-    {
-      "extension": "4006",
-      "identifier": "SHINANO14006",
-      "name": "Ringo",
-      "type": "unknown",
-      "model": "Friend"
-    },
-    {
-      "extension": "4007",
-      "identifier": "SHINANO14007",
-      "name": "Sakura",
-      "type": "unknown",
-      "model": "Friend"
-    },
-    {
-      "extension": "4008",
-      "identifier": "SHINANO14008",
-      "name": "Tako",
-      "type": "unknown",
-      "model": "Friend"
-    },
-    {
-      "extension": "4009",
-      "identifier": "SHINANO14009",
-      "name": "Umeboshi",
-      "type": "unknown",
-      "model": "Friend"
-    },
-    {
-      "extension": "4010",
-      "identifier": "SHINANO14010",
-      "name": "Vanilla Ice Cream",
-      "type": "unknown",
-      "model": "Friend"
-    },
-    {
       "extension": "5050",
       "identifier": "SHINANO15050",
       "name": "Numero di telefono diretto di Shinano Mai",
